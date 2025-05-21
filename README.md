@@ -3,5 +3,5 @@ Hey guys in this repository we are going to make an animated portfolio website d
 
 # Site 
 ~~~
-https://mainocean.github.io/alexkorchenko/
+http://www.alexops.space/             https://mainocean.github.io/alexkorchenko/   
 ~~~
